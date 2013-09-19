@@ -1,0 +1,14 @@
+{
+  "name": "SpeakRobot",
+  "version": "0.1.0",
+  "description": "Generic speech worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Pratt <urthen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
